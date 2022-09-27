@@ -1,0 +1,4 @@
+com\example\springrabbitmq\MQConfig.class
+com\example\springrabbitmq\SpringRabbitMqApplication.class
+com\example\springrabbitmq\CustomMessage.class
+com\example\springrabbitmq\MessagePublisher.class
